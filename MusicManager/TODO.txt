@@ -1,0 +1,3 @@
+﻿Delete x first Characters
+mettre des commentaires
+effacer les fichier .bak
